@@ -24,7 +24,7 @@ Sequential Algorithm
 8)	Stop if q < QC.
 9)	Increment the value of alpha:    alpha = alpha + alpha0.    
     Stop if alpha > alphaMAX
-10)	Loop through stages 2
+10)	Loop through stages 2.
  
 Parallel Algorithm
 
