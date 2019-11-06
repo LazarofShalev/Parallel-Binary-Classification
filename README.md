@@ -6,7 +6,7 @@ Shalev Lazarof
 Parallel Solution for Binary Classification that combine MPI & OMP technologies
 
 
-*Sequential Algorithm 
+Sequential Algorithm 
 
 1.	Set alpha = alpha0
 2.	Choose initial value of all components of the vector of weights W to be equal to zero.
@@ -27,7 +27,7 @@ b.	The number maximum iterations LIMIT is reached
     Stop if alpha > alphaMAX
 10.	Loop through stages 2-9
  
-*Parallel Algorithm
+Parallel Algorithm
 
 1.	Process 0 read from the data file send the data using MPI to the other slaves
 2.	Each process initiates its alpha value using his rank.
