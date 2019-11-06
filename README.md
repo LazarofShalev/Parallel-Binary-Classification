@@ -25,7 +25,7 @@ Sequential Algorithm
 9)	Increment the value of alpha:    alpha = alpha + alpha0.    
     Stop if alpha > alphaMAX
 10)	Loop through stages 2.
- 
+
 Parallel Algorithm
 
 1)	Process 0 read from the data file send the data using MPI to the other slaves
