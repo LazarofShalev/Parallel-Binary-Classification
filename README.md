@@ -54,7 +54,7 @@ significantly because each process calculates different values on its own and ha
 lead to a good Load Balance.
 
 
-
+![](https://github.com/ShalevL/Parallel-Binary-Classification/blob/master/parallel.jpg)
 
 
 
