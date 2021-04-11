@@ -1,5 +1,5 @@
 # Parallel-Binary-Classification
-Final Project - Parallel And Distributed Computing Course
+Final Project - Parallel And Distributed Computing Course, Grade 90.
 
 Shalev Lazarof 
 
